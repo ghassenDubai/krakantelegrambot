@@ -3,8 +3,8 @@ from datetime import time
 from krakenex import API
 
 # Initialize the Kraken API client
-kraken = API('ecYBiCizQp3g9wSk38CaPhplrtPFp6LP7UqmuUMzBj+CvzpAod52iboc'
-             , '2TNJT3aYP0mtAETY/KU5GVFH0C7NKoxxQ+hyl0jOQ3JPwiAk4aYuMNKqxHc+9ykCXQlxiiJJyLOVuANZASycNA==')
+kraken = API('********'
+             , '**********')
 
 def get_balance():
     try:
